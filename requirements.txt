@@ -1,0 +1,16 @@
+
+# Core dependencies
+streamlit
+bcrypt
+requests
+pandas
+
+# Email support (uses Python stdlib, but for completeness)
+smtplib
+email
+
+# Existing project dependencies
+llama-index
+ollama
+fastapi
+uvicorn
